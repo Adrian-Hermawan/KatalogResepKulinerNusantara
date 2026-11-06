@@ -7,7 +7,7 @@ List<Recipe> dummyRecipes = [
     origin: 'Padang, Sumatera Barat',
     duration: 180,
     portion: 5,
-    imageUrl: 'https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?auto=format&fit=crop&q=80&w=600',
+    imageUrl: 'assets/images/Rendang_Sapi.jpe',
     ingredients: [
       '1 kg daging sapi',
       '1000 ml santan kental',
@@ -27,7 +27,7 @@ List<Recipe> dummyRecipes = [
     origin: 'Lamongan, Jawa Timur',
     duration: 60,
     portion: 4,
-    imageUrl: 'https://images.unsplash.com/photo-1572656631137-7935297eff55?auto=format&fit=crop&q=80&w=600',
+    imageUrl: 'assets/images/Soto_Ayam_Lamongan.jpe',
     ingredients: [
       '1/2 ekor ayam',
       '2 liter air',
@@ -47,7 +47,7 @@ List<Recipe> dummyRecipes = [
     origin: 'Jawa',
     duration: 20,
     portion: 2,
-    imageUrl: 'https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&q=80&w=600',
+    imageUrl: 'assets/images/Nasi_Goreng.jpe',
     ingredients: [
       '2 piring nasi dingin',
       '2 butir telur',

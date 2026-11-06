@@ -9,7 +9,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:katalog_resep_kuliner_nusantara/main.dart';
-import 'package:katalog_resep_kuliner_nusantara/screens/home_screen.dart';
+import 'package:katalog_resep_kuliner_nusantara/screens/halaman_utama.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
