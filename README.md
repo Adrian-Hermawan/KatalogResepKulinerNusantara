@@ -1,4 +1,4 @@
-# katalog_resep_kuliner_nusantara
+# Katalog Resep Kuliner Nusantara
 
 Project UTS
 
